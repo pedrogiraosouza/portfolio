@@ -1,3 +1,7 @@
+# Master's Candidate
+
+**Technical Skills: Python, R, Stata, C++, MATLAB, VBA**
+
 ### Education
 - Naval Architecture and Marine Engineering, B.S. | Universidade Federal do Pará (_January 2019_)
 
