@@ -20,6 +20,7 @@
 - FFPT and Educational Outcomes (Master's Dissertation)
 
   **Finance**
+- Retail Investors and the Index Effect
 
   **Machine Learning**
   
