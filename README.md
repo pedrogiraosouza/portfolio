@@ -1,5 +1,5 @@
 ### Education
-  - Naval Architecture and Marine Engineering, B.S. | Universidade Federal do Pará (_January 2019)
+  - Naval Architecture and Marine Engineering, B.S. | Universidade Federal do Pará (_January 2019_)
 
   - Business Economics Master's Candidate | Escola de Economia de São Paulo - Fundação Getúlio Vargas 
 
@@ -16,4 +16,10 @@
 - Machine Learning
 
 ### Projects
+  **Microeconomics**
+- FFPT and Educational Outcomes (Master's Dissertation)
+
+  **Finance**
+
+  **Machine Learning**
   
