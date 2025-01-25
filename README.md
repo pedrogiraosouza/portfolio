@@ -20,11 +20,12 @@
 - Machine Learning
 
 ### Projects
-**Microeconomics**
-- FFPT and Educational Outcomes (Master's Dissertation)
+**Dissertation**
+- FFPT and Educational Outcomes (Not Published Yet)
 
-**Finance**
-- Retail Investors and the Index Effect
+**Smaller Projects - Problem Sets**
 
-**Machine Learning**
+- [PSETS](https://github.com/pedrogiraosouza/portfolio) : These are minor PSETs utilizing large datasets where I apply some statistical and Data-Science techniques.
+
+
   
